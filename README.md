@@ -118,6 +118,10 @@ Query: "distributed systems"
 Latency: 3.51 ms
 ```
 
+Sample Output:
+
+![Search Engine Output](screenshot.png)
+
 
 ### Memory Usage
 - ~54–55 MB for a 2,000-document corpus  
